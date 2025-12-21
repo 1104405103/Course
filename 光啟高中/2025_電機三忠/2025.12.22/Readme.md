@@ -50,9 +50,6 @@
 ``` arduino
 
 //使用軟體Serial
-#include <SoftwareSerial.h>  
-SoftwareSerial mySerial(2,3); // RX, TX
-
 int const trigPin= 12;
 int const echoPin= 11;
 int const buzzer=7;
