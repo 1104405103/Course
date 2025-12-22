@@ -39,7 +39,8 @@
 
 ## 超音波距離感測+ 蜂鳴器控制電路圖
 
-<img src="https://github.com/1104405103/Course/blob/main/%E5%85%89%E5%95%9F%E9%AB%98%E4%B8%AD/2025_%E9%9B%BB%E6%A9%9F%E4%B8%89%E5%BF%A0/2025.12.22/playbob.jpg"  width=800 height=600 />
+<img src="https://github.com/1104405103/Course/blob/main/%E5%85%89%E5%95%9F%E9%AB%98%E4%B8%AD/2025_%E9%9B%BB%E6%A9%9F%E4%B8%89%E5%BF%A0/2025.12.22/playbob2.jpg"  width=800 height=600 />
+
 
 ## 相關函式 : 無
 
